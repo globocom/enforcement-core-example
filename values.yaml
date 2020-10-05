@@ -1,0 +1,5 @@
+spec:
+  destination:
+    name: in-cluster
+  source:
+    targetRevision: HEAD
